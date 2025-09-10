@@ -1,1 +1,0 @@
-# This is a Lab 1 Assignment
